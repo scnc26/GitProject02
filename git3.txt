@@ -4,8 +4,12 @@ C:\Users\aao\Desktop\cloneproject\RentACar>git commit -am"m2"
 r
 r
 r
-k
-k
+
+g
+
+g
+g
+
 
 
 
